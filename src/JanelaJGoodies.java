@@ -12,7 +12,7 @@ public class JanelaJGoodies extends JFrame{
 	
 	public JanelaJGoodies() {
 		
-		JTextField nomeField = new JTextField();
+		JTextField nomeField = new JTextField();x
 		JComboBox estadoCivil = new JComboBox();
 		JTextField cpfField = new JTextField();
 		JComboBox etnia = new JComboBox();
@@ -20,6 +20,8 @@ public class JanelaJGoodies extends JFrame{
 		JRadioButton sexoM = new JRadioButton("M");
 		JRadioButton sexoF = new JRadioButton("F");
 		JTextField emailField = new JTextField();
+
+		JRadioButton l;
 		
 		JComboBox curso = new JComboBox();
 		JComboBox periodo = new JComboBox();
