@@ -10,6 +10,8 @@ import com.jgoodies.forms.layout.FormLayout;
 
 public class JanelaJGoodies extends JFrame{
 	
+	system.out.print("ola");
+	
 	public JanelaJGoodies() {
 		
 		JTextField nomeField = new JTextField();x
